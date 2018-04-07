@@ -49,7 +49,7 @@ Plan #2: Replace
         'I think _person_ is a really good person.'
 
     That's a neat idea, and is actually really similar to our better plans... But our
-    better plans circumvent the need to outsmart the text like that.
+    better plans circumvent the need to outsmart the text.
 
     Also, it's kind of a drag writing so many lines like that.
 """

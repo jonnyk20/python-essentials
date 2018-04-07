@@ -31,8 +31,8 @@ print("\nDon't do that ☝️")
 print("--------")
 print("Do this 👇\n")
 
-for object in objects:
-    print(greeting + " " + object)
+for _object in objects:
+    print(greeting + " " + _object)
 
 # Nested loops
 
@@ -47,8 +47,8 @@ greetings = [
 ]
 
 for greeting in greetings:
-    for object in objects:
-        print(greeting + " " + object)
+    for _object in objects:
+        print(greeting + " " + _object)
 
 print("\n--------\n")
 
@@ -61,6 +61,6 @@ tails = [
 
 
 for greeting in greetings:
-    for object in objects:
+    for _object in objects:
         for tail in tails:
-            print(greeting + " " + object + "! " + tail)
+            print(greeting + " " + _object + "! " + tail)

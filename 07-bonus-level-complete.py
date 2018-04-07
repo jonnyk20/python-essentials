@@ -11,8 +11,6 @@ for surname in surnamesRaw:
 femaleNames = [name.split(' ')[0] for name in open('./name-lists/census-dist-female-first.txt').read().split('\n')]
 maleNames = [name.split(' ')[0] for name in open('./name-lists/census-dist-male-first.txt').read().split('\n')]
 
-# print(femaleNames[200])
-# print(maleNames[200])
 randomIndexFemale = random.randint(0, len(femaleNames))
 randomIndexMale = random.randint(0, len(maleNames))
 randomIndexSurname = random.randint(0, len(surnames))

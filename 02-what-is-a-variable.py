@@ -2,19 +2,19 @@ greeting = "Hello World"
 print(greeting)
 
 greeting = "Hello"
-object = "World"
+_object = "World"
 
-print(greeting + " " + object)
+print(greeting + " " + _object)
 
-object = "Folks"
+_object = "Folks"
 
-print(greeting + " " + object)
+print(greeting + " " + _object)
 
-object = "Gang"
+_object = "Gang"
 
-print(greeting + " " + object)
+print(greeting + " " + _object)
 
 greeting = "Oh hey"
 tail = "I didn't see you there."
 
-print(greeting + " " + object + ", " + tail)
+print(greeting + " " + _object + ", " + tail)
