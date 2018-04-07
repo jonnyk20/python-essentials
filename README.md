@@ -1,5 +1,5 @@
 Python Essentials
-Lighthouse Labs, March 2018
+Lighthouse Labs, April 2018
 
 # Agenda
 
@@ -15,4 +15,3 @@ Lighthouse Labs, March 2018
 
 ### Project 2:
   Write a Python script that generates random names from US census data
-  
