@@ -1,0 +1,25 @@
+biology
+chemistry
+physics
+mathematics
+computer science
+psych
+political science
+journalism
+philosophy
+literature
+economics
+management
+finance
+accounting
+marketing
+music
+design
+art
+history
+architecture
+engineering
+international relations
+history
+linguistics
+education
