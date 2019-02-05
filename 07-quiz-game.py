@@ -3,14 +3,14 @@
 # write a method to clear the terminal
 
 
-# create a list to store names
-# import names into that list
-
 # create a list to store majors
 # import majors into list
 
 
-# shuffle lists
+# create a list to store names
+# import names into that list
+
+# shuffle the lists
 
 
 # generate list of profiles
@@ -24,12 +24,11 @@
 # set up a variable to track total answers
 # set up a variable to track total correct answers
 # using the above, set up a variable to calculate incorrect answers
-# using the above, set up a variable to calculate remaining questions
 
-# shuffle the deck of profiles
+# shuffle the list of profiles
 
 
-# Loop throught profiles and doas follows
+# Loop throught profiles and do as follows
 
 # ask the user about who has a particular major
 
@@ -37,9 +36,10 @@
 
 # add 1 to the number of answers
 
-# compare their answer to the acctual value
+# compare their answer to the actual value (think about casing as well, if you can)
+
 # if it's correct,
-# Ler the user know their answer was correct
+# Let the user know their answer was correct
 # increment the correct counter
 
 # if not
@@ -49,14 +49,15 @@
 # if not, show them the correct answer
 
 # print results so far "Score: x/y"
-# Check if there are remaining questions
+# Calculate the ramining questions and save the value to a variable
+# Check if that value is greater than 0
 
 # If so,
 # let then know how many are remaining
-# Prompt the user to press any key to meet the next person
+# Prompt the user to press any key to see the next question
 # Clear the terminal when they do
 # if not,
-# Than them for playing
+# Thank them for playing
 
 
 # Bonus Step

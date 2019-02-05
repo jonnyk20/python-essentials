@@ -1,14 +1,12 @@
 # use the followgin variable for the rest of the exercises
 
-instructor = ""  # Your name
+name = ""  # Your name
 city = ""  # Your city
-major = ""  # Your city
-greeting = ""  # Your major
+major = ""  # Your major
 
 
 # 1: Concatenation
-# by combinign two strings, print out "Hi, I'm ___"
-# add "and I live in ___"
+# by combinng strings, print out "Hi, I'm ___, I'm from __ and I study __.'"
 
 
 # 2: Replace
@@ -19,6 +17,8 @@ greeting = ""  # Your major
 
 
 # 2: Sring Formatting
-# In one line of code, print "Hi my name is __ and I live in __."
+# In one line of code, print "Hi my name is __ and I live in __.
+
 # Try it with the format intputs in a different order
+
 # Try it with literal string interpolation.
